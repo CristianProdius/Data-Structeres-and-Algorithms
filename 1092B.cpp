@@ -36,4 +36,5 @@ int main(){
         availabel_teams += students[i]-students[i-1];
     }
     cout<< availabel_teams;    
+    //please sumbimt fucking yeah
 } 
