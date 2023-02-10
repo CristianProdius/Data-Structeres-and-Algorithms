@@ -24,7 +24,6 @@ int main(){
     for(int i=0; i<num_stutents; i++){
         cin >> students[i];
     }
-
     //selection sort
     selection_sort(students, num_stutents);
 
